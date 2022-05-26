@@ -22,6 +22,7 @@ function App() {
       <h1>Images</h1>
       <img src={cloud} />
       <img src={cloud} />
+      <img src={cloud} />
     </div>
   );
 }
