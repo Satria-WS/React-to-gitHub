@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/React-to-gitHub/static/css/main.073c9b0a.css",
-    "main.js": "/React-to-gitHub/static/js/main.6b072413.js",
+    "main.js": "/React-to-gitHub/static/js/main.096d6bda.js",
     "static/js/787.42b157f3.chunk.js": "/React-to-gitHub/static/js/787.42b157f3.chunk.js",
     "static/media/logo.svg": "/React-to-gitHub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/React-to-gitHub/index.html",
     "main.073c9b0a.css.map": "/React-to-gitHub/static/css/main.073c9b0a.css.map",
-    "main.6b072413.js.map": "/React-to-gitHub/static/js/main.6b072413.js.map",
+    "main.096d6bda.js.map": "/React-to-gitHub/static/js/main.096d6bda.js.map",
     "787.42b157f3.chunk.js.map": "/React-to-gitHub/static/js/787.42b157f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6b072413.js"
+    "static/js/main.096d6bda.js"
   ]
 }
