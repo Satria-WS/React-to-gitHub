@@ -23,6 +23,14 @@ function App() {
       <img src={cloud} />
       <img src={cloud} />
       <img src={cloud} />
+<<<<<<< Updated upstream
+=======
+      <img src={cloud} />
+      <img src={cloud} />
+      <img src={cloud} />
+      <img src={cloud} />
+      <img src={cloud} />
+>>>>>>> Stashed changes
     </div>
   );
 }
