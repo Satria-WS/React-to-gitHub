@@ -23,10 +23,10 @@ function App() {
       <img src={cloud} />
       <img src={cloud} />
       <img src={cloud} />
-      <h1>Images</h1>
       <img src={cloud} />
       <img src={cloud} />
-      <img src={cloud} /> <img src={cloud} />
+      <img src={cloud} />
+      <img src={cloud} />
       <img src={cloud} />
       <img src={cloud} />
     </div>
