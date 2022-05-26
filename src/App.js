@@ -23,6 +23,7 @@ function App() {
       <img src={cloud} />
       <img src={cloud} />
       <img src={cloud} />
+      <img src={cloud} />
     </div>
   );
 }
