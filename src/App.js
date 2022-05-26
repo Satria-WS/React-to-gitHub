@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 import cloud from "./assets/images/cloud.png";
 
 function App() {
@@ -24,11 +24,13 @@ function App() {
       <img src={cloud} />
       <img src={cloud} />
       <img src={cloud} />
+      <h1>Images</h1>
       <img src={cloud} />
       <img src={cloud} />
+      <h1>Images</h1>
       <img src={cloud} />
       <img src={cloud} />
-      <img src={cloud} />
+      <h1>Images</h1>
     </div>
   );
 }
